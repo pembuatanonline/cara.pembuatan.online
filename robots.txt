@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cara.pembuatan.online/sitemap.xml
